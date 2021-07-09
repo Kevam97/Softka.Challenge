@@ -1,0 +1,13 @@
+Lista de podio
+En el juego(id) 1 Puesto 1 Jugador Juanm con el conductor ANTONIO GIOVINAZZI con el carro de AlfaRomeo
+En el juego(id) 1 Puesto 2 Jugador Ke con el conductor SERGIO PEREZ con el carro de RedBull
+En el juego(id) 1 Puesto 3 Jugador Rafa con el conductor LEWIS HAMILTON con el carro de Mercedez
+En el juego(id) 2 Puesto 1 Jugador Ke con el conductor SERGIO PEREZ con el carro de RedBull
+En el juego(id) 2 Puesto 2 Jugador Juanm con el conductor ANTONIO GIOVINAZZI con el carro de AlfaRomeo
+En el juego(id) 2 Puesto 3 Jugador Rafa con el conductor LEWIS HAMILTON con el carro de Mercedez
+En el juego(id) 3 Puesto 1 Jugador Juanm con el conductor ANTONIO GIOVINAZZI con el carro de AlfaRomeo
+En el juego(id) 3 Puesto 2 Jugador Rafa con el conductor LEWIS HAMILTON con el carro de Mercedez
+En el juego(id) 3 Puesto 3 Jugador Ke con el conductor SERGIO PEREZ con el carro de RedBull
+En el juego(id) 4 Puesto 1 Jugador Rafa con el conductor LEWIS HAMILTON con el carro de Mercedez
+En el juego(id) 4 Puesto 2 Jugador Juanm con el conductor ANTONIO GIOVINAZZI con el carro de AlfaRomeo
+En el juego(id) 4 Puesto 3 Jugador Ke con el conductor SERGIO PEREZ con el carro de RedBull
